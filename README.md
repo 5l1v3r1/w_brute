@@ -3,7 +3,7 @@
 
 # module
 
-* reuests
+* requests
 
 # instalasi
 ```
